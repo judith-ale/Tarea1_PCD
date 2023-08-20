@@ -15,7 +15,7 @@ El repositorio contiene un archivo de Jupyter Notebook con un resumen sobre la i
 ### ¿Qué ramas existen?
 
 - `main`: rama principal, contiene sólo la información del repositorio.
-- `feature-1`: rama que contiene el notebook `T1PrimerNombrePrimerApellido.ipynb`.
+- `feature-1`: rama que contiene el notebook `T1JudithHinojosa.ipynb`.
 
 ---
 
